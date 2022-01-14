@@ -121,7 +121,7 @@ html {
 .main-page::before {
   content: "";
   width: calc(100% + 30px);
-  height: 125%;
+  height: 124%;
   position: absolute;
   background-image: url(../images/hero-bg.svg);
   background-size: cover;
